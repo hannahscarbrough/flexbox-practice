@@ -1,0 +1,15 @@
+.images1 img {
+    height: 250px;
+}
+
+.images1 {
+    display: flex;
+}
+
+.images2 img {
+    height: 250px;
+}
+
+.images2 {
+    display: flex;
+}
